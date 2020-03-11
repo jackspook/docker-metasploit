@@ -16,4 +16,4 @@ Note the image ID in success message (e.g. `Successfully built 3a12e7443327`).
 
 Run the image.
 
-`docker container run <image ID>`
+`docker container run -it <image ID>`
