@@ -1,4 +1,4 @@
-# docker-metasploit
+# Metasploit via Docker
 
 Dockerfile and Bash script to build and run Metasploit via Docker.
 
