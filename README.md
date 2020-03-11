@@ -8,6 +8,10 @@ Clone the repo.
 
 `git clone https://github.com/spookis/docker-metasploit.git`
 
+Navigate into repo folder.
+
+`cd docker-metasploit`
+
 Bulid the image locally.
 
 `docker build .`
